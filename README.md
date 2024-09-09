@@ -16,7 +16,9 @@ The specific architecture of the generator and discriminator can be found in the
 ## Results
 After training the DCGAN model, you can generate new face images using the trained generator. The generated images will be saved in the `logs/fake` directory, and you can visualize them using TensorBoard.
 
-![Results](./Screenshot 2024-06-12 155535.png)
+Here is an example of generated face images:
+
+![Generated Face Images](Screenshot 2024-06-12 155535.png)
 
 ## Requirements
 
