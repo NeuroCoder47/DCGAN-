@@ -18,7 +18,7 @@ After training the DCGAN model, you can generate new face images using the train
 
 Here is an example of generated face images:
 
-![Attention](./Screenshot 2024-06-12 155535.png)
+![Screenshot 2024-06-12 155535](https://github.com/user-attachments/assets/4846438c-1e56-42a5-969f-fbb5440cd1a4)
 
 ## Requirements
 
